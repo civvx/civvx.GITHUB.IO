@@ -1,3 +1,5 @@
 # Hello World!
 
-My name is Civvx and i am a second year CMD student.
+My name is Burak and i am a second year CMD student.
+
+![Thats me](https://ibb.co/eAsNQn)
